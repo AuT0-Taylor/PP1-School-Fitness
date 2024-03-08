@@ -14,23 +14,75 @@ body{
     font-family: Lato, sans-serif;
 }
 
-.hero-outer{
+#logo{
+    font-family: Oswald, sans-serif;
+    font-size: 250%;
+    float: left;
+    margin-left: 0.5em;
+
+}
+
+#navigation {
+    font-size: 100%;
+    font-weight: 500;
+    letter-spacing: 0.1rem;
+    float: right;
+}
+
+#navigation li {
+    float: left;
+    list-style: none;
+    margin-right: 1.5em;
+    margin-top: 1.45rem;
+}
+
+#navigation a{
+    text-decoration: none;
+    color: blue;
+}
+
+#navigation a:hover{
+    border-bottom:  0.05rem black;
+    color: black;
+}
+
+
+#hero-outer{
     width: 100%;
-    height: 40rem;
+    height: 50rem;
     overflow: hidden;
     position: relative;
 }
 
-.hero-image {
+#hero-image {
     width: 100%;
-    height: 40rem;
-    background: url("../images/tug-of-war.jpg") no-repeat center center;
+    height: 30rem;
+    background: url("/Assets/images/tug-of-war.jpg") no-repeat center center;
+    animation: front-img-fade-in 4s;
+}
+ 
+@keyframes front-img-fade-in {
+    0%{
+        opacity: 0.3;
+    }
+    100%{
+        opacity: 1;
+    }
 }
 
-
 /* text effects*/
-.logo{
-    text-align:left ;
+
+
+
+#slogan-text{
+letter-spacing: 0.2;
+padding: 2.5;
+color: whitesmoke;
+position: absolute;
+top:20%;
+left: 40%;
+text-align: center;
+text-transform: uppercase;
 }
 
 h1{
