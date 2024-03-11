@@ -111,14 +111,16 @@ text-align: center;
 }
 
 #footer-two{
-    float: left;
+    display: inline-block;
     text-align: center;
+    margin: 0 auto;
 }
 
 #footer-three{
     float: right;
     text-align: right;
 }
+
 
 
 #warning{
