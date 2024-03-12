@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&display=swap');
 
 :root {
     background: rgb(243, 242, 238);
@@ -15,7 +15,7 @@ body{
 }
 
 #logo{
-    font-family: Oswald, sans-serif;
+    font-family: "cabin sketch", sans-serif;
     font-size: 250%;
     float: left;
     margin-left: 0.5em;
@@ -60,7 +60,7 @@ body{
     background: url("/Assets/images/tug-of-war.jpg") no-repeat center center;
     animation: front-img-fade-in 4s;
 }
- 
+ /*front image fade*/
 @keyframes front-img-fade-in {
     0%{
         opacity: 0.3;
@@ -75,14 +75,24 @@ body{
 
 
 #slogan-text{
-letter-spacing: 0.2;
-padding: 2.5;
+letter-spacing: 0.2rem;
+padding: 1.5rem;
+background-color: rgba(136, 231, 114, 0.695);
 color: whitesmoke;
 position: absolute;
 top:20%;
-left: 40%;
+left: 50%;
+transform: translate(-50%, -40%);
 text-align: center;
 text-transform: uppercase;
+}
+
+#slogan-text h2{
+    font-size: 180;
+}
+
+#slogan-text h3{
+    font-size: 140;
 }
 
 h1{
@@ -128,4 +138,8 @@ text-align: center;
     padding: 2rem;
     clear: both;
 }
+
+
+
+
 
