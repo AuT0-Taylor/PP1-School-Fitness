@@ -108,7 +108,7 @@ text-transform: uppercase;
 
 /* footer styling */
 footer{
-height: 12rem;
+height: 8.5rem;
 padding-top: 1rem;
 background-color: rgba(128, 128, 128, 0.618);
 }
@@ -136,10 +136,6 @@ text-align: center;
     text-align: right;
 }
 
-#footer-one h3{
-text-decoration: underline;
-}
-
 .social-icons{
     text-align: left;
 }
@@ -159,7 +155,7 @@ text-decoration: underline;
 
 #warning{
     text-align: center;
-    padding: 2rem;
+    padding: 1.5rem;
     clear: both;
 }
 
