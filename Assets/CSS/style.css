@@ -14,11 +14,7 @@ body{
     font-family: Lato, sans-serif;
 }
 
-header{
-    height: 3rem;
-    padding-top: 1rem;
-    background-color: rgba(128, 128, 128, 0.618)
-}
+
 
 
 #logo{
@@ -27,6 +23,11 @@ header{
     float: left;
     margin-left: 0.5em;
 
+}
+
+#navigation, #logo{
+    line-height: 5rem;
+    margin-bottom: 0;
 }
 /* navigation styling */
 #navigation {
@@ -40,7 +41,7 @@ header{
     float: left;
     list-style: none;
     margin-right: 1.5em;
-    margin-top: 1.45rem;
+
 }
 
 #navigation a{
