@@ -136,10 +136,6 @@ top: 12rem;
 }
 
 
-.card{
- background-color: azure;
-}
-
 .card-title{
     font-family: "Madimi One", sans-serif;
     text-align: center;
@@ -151,8 +147,8 @@ top: 12rem;
 }
 
 /* contact from styling */
-.contact-container{
-    
+#contact-content{
+    background-image: url("/Assets/images/running-images.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size: auto;
@@ -160,6 +156,8 @@ top: 12rem;
     height:40rem;
     overflow: hidden;
 }
+
+
 
 
 /* footer styling */
