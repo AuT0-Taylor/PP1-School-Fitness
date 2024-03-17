@@ -17,7 +17,6 @@ body{
 
 
 
-
 #logo{
     font-family: "cabin sketch", sans-serif;
     font-size: 250%;
@@ -53,6 +52,7 @@ body{
 #navigation a:hover{
     border-bottom:  0.05rem black;
     color: black;
+    text-decoration: underline;
 }
 
 /*images styling*/
@@ -69,6 +69,7 @@ body{
     background: url("/Assets/images/tug-of-war.jpg") no-repeat center center;
     animation: front-img-fade-in 4s;
 }
+
  /*front image fade*/
 @keyframes front-img-fade-in {
     0%{
@@ -80,7 +81,6 @@ body{
 }
 
 /* text effects*/
-
 
 
 #slogan-text{
@@ -103,6 +103,7 @@ text-transform: uppercase;
 #slogan-text h3{
     font-size: 140;
 }
+
 /* card styling */
 
 #home-text{
@@ -136,7 +137,7 @@ top: 12rem;
 
 
 .card{
-
+ background-color: azure;
 }
 
 .card-title{
@@ -145,12 +146,15 @@ top: 12rem;
     text-decoration: underline;
 }
 
+.card-text{
+    text-align: center;
+}
+
 
 /* footer styling */
 footer{
 height: 8.5rem;
 padding-top: 1rem;
-background-color: rgba(128, 128, 128, 0.618);
 }
 
 #footer-guide{
