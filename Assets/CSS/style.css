@@ -178,6 +178,20 @@ top: 12rem;
     width: 26rem;
 }
 
+.radio-text{
+    margin: 0.4rem;
+}
+
+#send-button{
+    padding: 0.8rem;
+    border-radius: 8rem;
+    background-color: green;
+}
+.form-control:hover{
+    border-color: black;
+}
+
+
 /* footer styling */
 footer{
 height: 8.5rem;
