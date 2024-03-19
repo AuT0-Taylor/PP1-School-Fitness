@@ -146,8 +146,23 @@ top: 12rem;
 .card-text{
     text-align: center;
 }
+/* resource page styling */
 
-/* contact from styling */
+#resource-container{
+    background-image: url("/Assets/images/teamwork-picture.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height:40rem;
+    overflow: hidden;
+}
+
+
+
+
+
+/* contact form styling */
 #contact-content{
     background-image: url("/Assets/images/running-images.webp");
     background-repeat: no-repeat;
