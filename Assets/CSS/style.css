@@ -159,8 +159,31 @@ top: 12rem;
     overflow: hidden;
 }
 
+.resource-col{
+    text-align: center;
+    letter-spacing: 0.06875rem;
+    font-size: 110%;
+    font-weight: 600;
+    background-color: rgba(118, 185, 185, 0.574);
+    border-radius: 10px;
+    padding: 1.875rem;
+    height: 40.5rem;
+    color: white;
+}
 
+#resource-content1-2{
+    float: left;
+    margin: 3rem;
+    width: 40rem;
+    font-size: smaller;
+}
 
+#resource-content3-4{
+    float: right;
+    margin: 3rem;
+    width: 40rem;
+    font-size: smaller;
+}
 
 
 /* contact form styling */
