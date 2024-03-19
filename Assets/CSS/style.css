@@ -113,29 +113,6 @@ text-transform: uppercase;
     height: 30rem;
 }
 
-#card-1{
-top: 2rem;
-float: left;
-left: 4rem;
-}
-
-#card-2{
-    top: 2rem;
-    float: right;
-    right: 4rem;
-}
-
-#card-3{
-float: right;
-right: 7rem;
-top: 12rem;
-
-}
-
-#card-4{
-    left: 7rem;
-    top: 12rem;
-}
 
 
 .card-title{
