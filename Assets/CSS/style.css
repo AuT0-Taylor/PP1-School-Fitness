@@ -107,13 +107,9 @@ text-transform: uppercase;
 }
 
 /* card styling */
-
-#home-text{
-    width: auto;
-    height: 30rem;
-}
-
-
+ .card{
+    background-color: rgba(21, 16, 16, 0.462);
+ }
 
 .card-title{
     font-family: "Madimi One", sans-serif;
@@ -211,35 +207,30 @@ text-transform: uppercase;
 
 /* footer styling */
 footer{
-height: 8.5rem;
 padding-top: 1rem;
 }
 
 #footer-guide{
-width: 100%;
 margin: 0 auto;
 text-align: center;
 
 }
 
 #footer-one{
-    float: left;
     text-align: left;
 }
 
 #footer-two{
-    display: inline-block;
     text-align: center;
     margin: 0 auto;
 }
 
 #footer-three{
-    float: right;
     text-align: right;
 }
 
 .social-icons{
-    text-align: left;
+    text-align: center;
 }
 
 .social-icons i{
