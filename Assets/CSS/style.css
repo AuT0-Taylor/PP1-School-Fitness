@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
 
 :root {
-    background: rgb(243, 242, 238);
+    background: whitesmoke;
 }
 
 * {
@@ -64,8 +64,9 @@ body{
 }
 
 #hero-image {
+    background-position:center ;
     width: 100%;
-    height: 30rem;
+    height: 40rem;
     background: url("/Assets/images/tug-of-war.jpg") no-repeat center center;
     animation: front-img-fade-in 4s;
 }
