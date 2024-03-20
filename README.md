@@ -12,12 +12,12 @@ the project was designed with the amboitions to help teachers with lesson planni
 
 ## Table of Contents
 * [User Experience](#user-experience)
-* [Visual Design](#visual-design)
+* [Visual Designs](#visual-design)
 * [Features](#features)
 * [Technology's](#technology's-used)
 * [Testing](#testing)
+* [Bug fixes](#issues)
 * [Deployment](#deployment)
-* [Issues](#issues)
 * [Sources](#sources-used)
 
 ## User Experience
@@ -39,7 +39,7 @@ the project was designed with the amboitions to help teachers with lesson planni
 
     3. To keep intrest i want the user to be able to subscribe to the website for any new resources
 
-## Visual Desgins
+## Visual Designs
 
 - ### wireframes
 
@@ -64,6 +64,20 @@ the project was designed with the amboitions to help teachers with lesson planni
 
 - ### Typography
    
-   -My chosen fonts from google had come from research as 'Cabin Sketch' had a studious tone and was most favored by teachers where as 'Madimi One' gave the page a bit more diversity than just give the text a bold decoration
+   - My chosen fonts from google had come from research as 'Cabin Sketch' had a studious tone and was most favored by teachers where as 'Madimi One' gave the page a bit more diversity than just give the text a bold decoration
 
    ![google fonts](/documents/evidence/google-fonts.png)
+
+
+## Features
+
+ - ### Feature-1 
+ -
+
+ - ### Feature-4
+
+
+ - ### Feature-4
+
+
+ - ### Feature-4
