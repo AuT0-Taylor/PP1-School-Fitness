@@ -71,13 +71,25 @@ the project was designed with the amboitions to help teachers with lesson planni
 
 ## Features
 
- - ### Feature-1 
- -
+ - ### Feature - Nav bar
+    - Nav bar inline with logo at the top of all 3 pages to give a consistent and common theme to the website for the user to easily navigated through the pages and a href linked to the logo to bring the user back to the home page.
+    
+    ![nav bar](/documents/evidence/nav-bar.png)
 
- - ### Feature-4
+ - ### Feature - Home page
+    - home page is to greet all users with the websites designed slogan "With Healthy Bodies Come Healthy Minds"
+    with the an image background used to set the theme for the website 
 
+    ![home page](/documents/evidence/home-page.png)
 
- - ### Feature-4
+ - ### Feature - Footer
+    - towards the bottom of each page has a footer that offers the user with details they may need to know to continue working with this brand via socials, as well a phone line with opening times when the user can get in touch 
+    and lastly the fictious address which i had found random generator
 
+    ![footer](/documents/evidence/socials.png)
 
- - ### Feature-4
+ - ### Feature - About us cards
+    - the about us section was design with 4 simple and easy to read containing what schools we cover, who can take part, what our beliefs as a brand are and and what our goals are for the users experience outcome.
+
+    ![about ](/documents/evidence/about-us.png)
+    
