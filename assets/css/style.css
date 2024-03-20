@@ -67,7 +67,7 @@ body{
     background-position:center ;
     width: 100%;
     height: 40rem;
-    background: url("/Assets/images/tug-of-war.jpg") no-repeat center center;
+    background: url("/assets/images/tug-of-war.jpg") no-repeat center center;
     background-size:cover;
     animation: front-img-fade-in 4s;
 }
@@ -123,7 +123,7 @@ text-transform: uppercase;
 /* resource page styling */
 
 #resource-container{
-    background-image: url("/Assets/images/teamwork-picture.webp");
+    background-image: url("/assets/images/teamwork-picture.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -161,7 +161,7 @@ text-transform: uppercase;
 
 /* contact form styling */
 #contact-content{
-    background-image: url("/Assets/images/running-images.webp");
+    background-image: url("/assets/images/running-images.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
