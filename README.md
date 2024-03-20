@@ -62,3 +62,8 @@ the project was designed with the amboitions to help teachers with lesson planni
 
    ![color palette](/documents/evidence/color-palette.png)
 
+- ### Typography
+   
+   -My chosen fonts from google had come from research as 'Cabin Sketch' had a studious tone and was most favored by teachers where as 'Madimi One' gave the page a bit more diversity than just give the text a bold decoration
+
+   ![google fonts](/documents/evidence/google-fonts.png)
