@@ -45,12 +45,12 @@ the project was designed with the amboitions to help teachers with lesson planni
 
   - #### main page wireframe
 
-    ![home page]()
+     ![home page](/documents/wireframes/home-wireframe.png)
 
   - #### resources page wireframe
 
-    ![resource page]()
+    ![resource page](/documents/wireframes/resource-wireframe.png)
 
   - #### contact page wireframe
 
-    ![contact page]()
+    ![contact page](/documents/wireframes/contact-wireframe.png)
