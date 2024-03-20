@@ -2,7 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
 
 :root {
-    background: whitesmoke;
+    --dun: #d3c2abff;
+    --cal-poly-green: #3b4e29ff;
+    --dark-moss-green: #42662bff;
+    --slate-gray: #668388ff;
+    --ecru: #bfaf7fff;
 }
 
 * {
@@ -22,7 +26,7 @@ body{
     font-size: 250%;
     float: left;
     margin-left: 0.5em;
-
+    color: var(--cal-poly-green);
 }
 
 #navigation, #logo{
@@ -46,7 +50,7 @@ body{
 
 #navigation a{
     text-decoration: none;
-    color: blue;
+    color: var(--cal-poly-green);
 }
 
 #navigation a:hover{
@@ -88,7 +92,7 @@ body{
 #slogan-text{
 letter-spacing: 0.2rem;
 padding: 1.5rem;
-background-color: rgba(171, 193, 166, 0.695);
+background-color: var(--slate-gray);
 color: whitesmoke;
 position: absolute;
 top:40%;
@@ -109,7 +113,7 @@ text-transform: uppercase;
 /* card styling */
  .card{
     border-radius: revert;
-    background-color: rgba(21, 16, 16, 0.462);
+    background-color: var(--dun);
  }
 
 .card-title{
