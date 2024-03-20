@@ -14,7 +14,7 @@ the project was designed with the amboitions to help teachers with lesson planni
 * [User Experience](#user-experience)
 * [Visual Designs](#visual-design)
 * [Features](#features)
-* [Technology's](#technology's-used)
+* [Technologies](#technologies)
 * [Testing](#testing)
 * [Bug fixes](#issues)
 * [Deployment](#deployment)
@@ -91,5 +91,20 @@ the project was designed with the amboitions to help teachers with lesson planni
  - ### Feature - About us cards
     - the about us section was design with 4 simple and easy to read containing what schools we cover, who can take part, what our beliefs as a brand are and and what our goals are for the users experience outcome.
 
-    ![about ](/documents/evidence/about-us.png)
+    ![about](/documents/evidence/about-us.png)
+
+
+## Technologies
+- ### coding languages
+- [HTML5](https://en.wikipedia.org/wiki/HTML)
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+### Tools and programs used in the process
+- [Bootstrap5](https://getbootstrap.com/)
+- [Balsamiq](https://balsamiq.com/)
+- [github](https://github.com/)
+- [gitpod](https://www.gitpod.io/)
+- [Font Awesome](https://fontawesome.com/)
+
+
     
