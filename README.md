@@ -17,6 +17,7 @@ the project was designed with the amboitions to help teachers with lesson planni
 * [Technology's](#technology's-used)
 * [Testing](#testing)
 * [Deployment](#deployment)
+* [Issues](#issues)
 * [Sources](#sources-used)
 
 ## User Experience
@@ -38,7 +39,18 @@ the project was designed with the amboitions to help teachers with lesson planni
 
     3. To keep intrest i want the user to be able to subscribe to the website for any new resources
 
+## Visual Desgins
 
+- ### wireframes
 
+  - #### main page wireframe
 
+    ![home page]()
 
+  - #### resources page wireframe
+
+    ![resource page]()
+
+  - #### contact page wireframe
+
+    ![contact page]()
