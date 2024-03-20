@@ -100,11 +100,22 @@ the project was designed with the amboitions to help teachers with lesson planni
 - [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ### Tools and programs used in the process
-- [Bootstrap5](https://getbootstrap.com/)
-- [Balsamiq](https://balsamiq.com/)
-- [github](https://github.com/)
-- [gitpod](https://www.gitpod.io/)
-- [Font Awesome](https://fontawesome.com/)
+- [Bootstrap5](https://getbootstrap.com/) - used as fast, clean and effective way to make site this also helps with the consistency 
+- [Balsamiq](https://balsamiq.com/) - to create neat and simple wireframes to help visualise web design ideas
+- [github](https://github.com/) - to view my push and commits for my projects code to my repository
+- [gitpod](https://www.gitpod.io/) - this was IDE of choice to edit and commit my files from 
+- [Font Awesome](https://fontawesome.com/) - used to add fun icons to my my text for apperance 
+- [Google-Fonts](https://fonts.google.com/) - added 'Cabin Sketch' and 'Madimi One' fonts to help diversitise
+
+## Testing 
+[nu html checker](https://validator.w3.org/nu/) - used to validate/check html code
+- Home page html validation succesful!
+![Home](/documents/validations/index-html-validated.png)
+- Resource page html validation succesful!
+![Resource](/documents/validations/resource-html-validated.png)
+- Contac page html validation succesful!
+![Contact](/documents/validations/contact-html-validated.png)
+
 
 
     
