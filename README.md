@@ -21,12 +21,23 @@ the project was designed with the amboitions to help teachers with lesson planni
 
 ## User Experience
 
-    ### A. New Vistor Goals
+  - ### A. New Vistor Goals
 
-    1. As a new vistor i want an easy to understand navigation to the website to allow usage for all ages and web experience.
-    2.As a new vistor be able to understand the websites organisation and purpose.
-    3. As a new vistor a not too flashy color scheme to remain professional and keep the focus the purpose.
-    4. As a new vistor see if there are any other ways to follow this website via social media
+     1. As a new vistor i want an easy to understand navigation to the website to allow usage for all ages and web experience.
+     2. As a new vistor be able to understand the websites organisation and purpose.
+     3. As a new vistor a not too flashy color scheme to remain professional and keep the focus the purpose.
+     4. As a new vistor see if there are any other ways to follow this website via social media
+
+  - ### B. Returning Vistor goals 
+    
+    1. To keep intrest i want to allow the user to find the resource page effectively
+    2. To keep intrest i want to be able to offer a way to contact the organisation
+    3. To keep intrest i will leave a section in the footer displaying when you can contact us
+
+  - ### C. Common user goals 
+
+    3. To keep intrest i want the user to be able to subscribe to the website for any new resources
+
 
 
 
