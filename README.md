@@ -84,7 +84,7 @@ the project was designed with the amboitions to help teachers with lesson planni
 
  - ### Feature - Footer
     - towards the bottom of each page has a footer that offers the user with details they may need to know to continue working with this brand via socials, as well a phone line with opening times when the user can get in touch 
-    and lastly the fictious address which i had found random generator
+    and lastly the fictious address which i had found random generator.
 
     ![footer](/documents/evidence/socials.png)
 
@@ -100,21 +100,37 @@ the project was designed with the amboitions to help teachers with lesson planni
 - [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ### Tools and programs used in the process
-- [Bootstrap5](https://getbootstrap.com/) - used as fast, clean and effective way to make site this also helps with the consistency 
-- [Balsamiq](https://balsamiq.com/) - to create neat and simple wireframes to help visualise web design ideas
-- [github](https://github.com/) - to view my push and commits for my projects code to my repository
-- [gitpod](https://www.gitpod.io/) - this was IDE of choice to edit and commit my files from 
-- [Font Awesome](https://fontawesome.com/) - used to add fun icons to my my text for apperance 
-- [Google-Fonts](https://fonts.google.com/) - added 'Cabin Sketch' and 'Madimi One' fonts to help diversitise
+- [Bootstrap5](https://getbootstrap.com/) - used as fast, clean and effective way to make site this also helps with the consistency.
+- [Balsamiq](https://balsamiq.com/) - to create neat and simple wireframes to help visualise web design ideas.
+- [github](https://github.com/) - to view my push and commits for my projects code to my repository.
+- [gitpod](https://www.gitpod.io/) - this was IDE of choice to edit and commit my files from .
+- [Font Awesome](https://fontawesome.com/) - used to add fun icons to my my text for apperance .
+- [Google-Fonts](https://fonts.google.com/) - added 'Cabin Sketch' and 'Madimi One' fonts to help diversitise.
 
 ## Testing 
-[nu html checker](https://validator.w3.org/nu/) - used to validate/check html code
-- Home page html validation succesful!
+
+### html validations
+
+[NU html checker](https://validator.w3.org/nu/) - used to validate/check html code
+ - Home page html validation succesful!
 ![Home](/documents/validations/index-html-validated.png)
-- Resource page html validation succesful!
+ - Resource page html validation succesful!
 ![Resource](/documents/validations/resource-html-validated.png)
-- Contac page html validation succesful!
+ - Contac page html validation succesful!
 ![Contact](/documents/validations/contact-html-validated.png)
+
+### CSS validations
+[NU CSS checker](https://jigsaw.w3.org/css-validator/) - used to validate/check html code
+ - Custom CSS validation succesful! 
+ ![CSS Check](/documents/validations/ccs-validated.png)
+
+### Issues while validating
+
+-  here i found an issue that ive looked into for a great of time and have come to the conclusion its due to the nature of bootstrap having a veriety of assistive technologies where the validator can not properly access them. 
+ ![CSS Check](/documents/validations/validating-issues.png)
+ -after looking into this a little deeper i had continued coding the rest of the website as it posed to implication on any level.
+
+
 
 
 
