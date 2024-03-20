@@ -8,7 +8,7 @@ the project was designed with the amboitions to help teachers with lesson planni
 
 [To view my project live click here!]()
 
-![front of web page][]
+![front of web page](/documents/evidence/front-page.png)
 
 ## Table of Contents
 * [User Experience](#user-experience)
