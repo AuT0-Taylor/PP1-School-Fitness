@@ -54,3 +54,11 @@ the project was designed with the amboitions to help teachers with lesson planni
   - #### contact page wireframe
 
     ![contact page](/documents/wireframes/contact-wireframe.png)
+
+- ### Color Scheme
+   
+   - When picking out a color palette i didn't want it to be to flashy or too bold so i used my image from my first page to create a color scheme that i would use through the rest of the page, this is to give the project a more serious tone, i came to this conclusion after asking colleges in my work what would make them remember a site for work reasons and they made the argument against bright colors as it comes across as not professional to them.
+
+
+   ![color palette](/documents/evidence/color-palette.png)
+
