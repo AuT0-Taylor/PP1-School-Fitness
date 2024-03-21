@@ -16,7 +16,7 @@ the project was designed with the amboitions to help teachers with lesson planni
 * [Features](#features)
 * [Technologies](#technologies)
 * [Testing](#testing)
-* [Bug fixes](#issues)
+* [Bug fixes](#Bug-Issues)
 * [Deployment](#deployment)
 * [Sources](#sources-used)
 
@@ -138,6 +138,17 @@ All browers listed have been tested.
  -after looking into this a little deeper i had continued coding the rest of the website as it posed to implication on any level.
 
 
+## Bug fixes 
+
+### developer story
+
+At the start of this development i had struggled alot with cache errors causing my website not to refresh and in that moment i had copied and pasted work to a new repository : 
+[old Repository](https://github.com/AuT0-Taylor/School-Fitness-PP1)
+- this was only code with some header html but was the start of what cause much distruption when starting development, as i progreesed more on my current repository as had found that what caused the intial problem, when i had brought a google font in my css files the cache to max out this was incedibly frustrating as it had already been a week since i began designing, at this point i had become desperate to fix this bug, thus created some nonsense commits in this repository like "test, check, please work" looking back at it now i can say i reacted unprofestionally in those commits but still very frustrating to have lost that time.
+
+![example of nonsense commits](/documents/evidence/nonsense-commits.png)
+
+- I solely work on a laptop and am quite new to owning and having access to this level of computing but have come along way from small errors such as this one, now i have learned to reach out for support for as you will notice through the rest of commits i have stayed in with the 50 character limit whislt staging and grouped my commits appropriatley and have talked to my mentor which was very hopeful upon seeing my improvement.
 
 
 
