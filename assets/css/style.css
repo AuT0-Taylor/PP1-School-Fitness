@@ -143,9 +143,15 @@ text-transform: uppercase;
     }
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 426px) {
     #resource-container{
         height: 110rem;
+    }
+}
+
+@media screen and (max-width: 370px) {
+    #resource-container{
+        height: 130rem;
     }
 }
 
