@@ -185,11 +185,15 @@ At the start of this development i had struggled alot with cache errors causing 
 
 - A very easy to follow fade-in transition : https://blog.hubspot.com/website/css-fade-in#image-transition
 
-- index page cards, and how to apply row and cols from bootstrap library :
-[Bootsrap](https://getbootstrap.com/)
+- index page cards, and name email and text area in the form :
+[Bootsrap](https://getbootstrap.com/) -
+ Ajust then with custom css 
 
--
+- Mentor helped suggested for me to go through bootrap to find and add out how to use Grid using row and col clases which replaced my float style which are not as organised 
 
+## Last notes
+- I want to mention here that this project has helped me change my way of thinking completely and shaped my outlook on my next project i will continue to work on this project in my spare time in hopes i can bring new skill i pick up along the way
+- And a thank you to my mentor Rory Patrick  offering important feedback during my dilemma
 
 
     
