@@ -189,9 +189,12 @@ At the start of this development i had struggled alot with cache errors causing 
 
 ## Credit 
 
-### Cover images
+### Cover images and Insperations
 
-- all images used are from a website that also served as information - photos by https://keepingkidsinmotion.com/
+- all images used are from a website that also served as information and also lesson idea planning for resources -
+ https://keepingkidsinmotion.com/
+
+- layout design inspiration [elainebroche](https://github.com/elainebroche-dev/ms1-thrive)
 
 ### Code Content
 
