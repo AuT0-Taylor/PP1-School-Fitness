@@ -144,12 +144,25 @@ All browers listed have been tested.
 
 At the start of this development i had struggled alot with cache errors causing my website not to refresh and in that moment i had copied and pasted work to a new repository : 
 [old Repository](https://github.com/AuT0-Taylor/School-Fitness-PP1)
-- this was only code with some header html but was the start of what cause much distruption when starting development, as i progreesed more on my current repository as had found that what caused the intial problem, when i had brought a google font in my css files the cache to max out this was incedibly frustrating as it had already been a week since i began designing, at this point i had become desperate to fix this bug, thus created some nonsense commits in this repository like "test, check, please work" looking back at it now i can say i reacted unprofestionally in those commits but still very frustrating to have lost that time.
+- This was only code with some header html but was the start of what cause much distruption when starting development, as i progreesed more on my current repository as had found that what caused the intial problem, When i had brought a google font in my css files the cache to max out this was incedibly frustrating as it had already been a week since i began designing, at this point i had become desperate to fix this bug, thus created some nonsense commits in this repository like "test, check, please work" looking back at it now i can say i reacted unprofestionally in those commits but still very frustrating to have lost that time.
 
 ![example of nonsense commits](/documents/evidence/nonsense-commits.png)
 
-- I solely work on a laptop and am quite new to owning and having access to this level of computing but have come along way from small errors such as this one, now i have learned to reach out for support for as you will notice through the rest of commits i have stayed in with the 50 character limit whislt staging and grouped my commits appropriatley and have talked to my mentor which was very hopeful upon seeing my improvement.
+- I solely work on a laptop and am quite new to owning and having access to this level of computing but have come along way from small errors such as this one, Now i have learned to reach out for support for as you will notice through the rest of commits i have stayed in with the 50 character limit whislt staging and grouped my commits appropriatley and have talked to my mentor which was very hopeful upon seeing my improvement.
 
+## Deployment
+
+### If you would like to clone my repository
+- find my repository here: https://github.com/AuT0-Taylor/PP1-School-Fitness on GitHub!
+- Here you can click the green highlighted button "Code"
+- From here select codespaces and "create a codespace on main"
+
+### how i deployed this site 
+
+-As you open and find my GitHub repository, find the settings tab
+-Once in the Repository settings on the left hand side will be 'Pages'
+- now selected the drop-down menu from source and select "Deploy From Branch"
+- now thay its live from the main branch all commits pushed will be shown live
 
 
     
