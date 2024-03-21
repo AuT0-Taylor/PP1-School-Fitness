@@ -109,6 +109,13 @@ the project was designed with the amboitions to help teachers with lesson planni
 
 ## Testing 
 
+### different Browsers
+- FireFox version 124.0 (64-bit)
+- Chrome Version 123.0.6312.59 (Official Build) (64-bit)
+- Microsoft Edge Version 122.0.2365.80 (Official build) (64-bit)
+
+All browers listed have been tested.
+
 ### html validations
 
 [NU html checker](https://validator.w3.org/nu/) - used to validate/check html code
