@@ -76,28 +76,40 @@ the project was designed with the amboitions to help teachers with lesson planni
 
     - Nav bar inline with logo at the top of all 3 pages to give a consistent and common theme to the website for the user to easily navigated through the pages and a href linked to the logo to bring the user back to the home page.
     
-    ![nav bar](/documents/evidence/nav-bar.png)
+    ![Nav Bar](/documents/evidence/nav-bar.png)
 
  - ### Feature - Home page
 
     - home page is to greet all users with the websites designed slogan "With Healthy Bodies Come Healthy Minds"
     with the an image background used to set the theme for the website 
 
-    ![home page](/documents/evidence/home-page.png)
+    ![Home page](/documents/evidence/home-page.png)
 
  - ### Feature - Footer
 
-    - towards the bottom of each page has a footer that offers the user with details they may need to know to continue working with this brand via socials, as well a phone line with opening times when the user can get in touch 
+    - Towards the bottom of each page has a footer that offers the user with details they may need to know to continue working with this brand via socials, as well a phone line with opening times when the user can get in touch 
     and lastly the fictious address which i had found random generator.
 
-    ![footer](/documents/evidence/socials.png)
+    ![Footer](/documents/evidence/socials.png)
 
  - ### Feature - About us cards
 
-    - the about us section was design with 4 simple and easy to read containing what schools we cover, who can take part, what our beliefs as a brand are and and what our goals are for the users experience outcome.
+    - The about us section was design with 4 simple and easy to read containing what schools we cover, who can take part, what our beliefs as a brand are and and what our goals are for the users experience outcome.
 
-    ![about](/documents/evidence/about-us.png)
+    ![Fbout](/documents/evidence/about-us.png)
 
+ - ### Feature - Resource page tabs
+
+     - Very responsive containers that suits to all devices as alters to the most optimal size.
+
+     ![Resource Containers](/documents/evidence/resource-containers.png)
+
+ - ### Feature - Contact Form 
+     
+    - Contact form if returning user's would like to subscribe to recieve email's when a new lesson has been added to the site i may potentially adopt this feature for a later project
+    -Also Propmts the user to fill in any required fields before pressing send
+
+    ![Resource Containers](/documents/evidence/contact-form.png)
 
 ## Technologies
 
@@ -110,8 +122,8 @@ the project was designed with the amboitions to help teachers with lesson planni
 
 - [Bootstrap5](https://getbootstrap.com/) - used as fast, clean and effective way to make site this also helps with the consistency.
 - [Balsamiq](https://balsamiq.com/) - to create neat and simple wireframes to help visualise web design ideas.
-- [github](https://github.com/) - to view my push and commits for my projects code to my repository.
-- [gitpod](https://www.gitpod.io/) - this was IDE of choice to edit and commit my files from .
+- [Github](https://github.com/) - to view my push and commits for my projects code to my repository.
+- [Gitpod](https://www.gitpod.io/) - this was IDE of choice to edit and commit my files from .
 - [Font Awesome](https://fontawesome.com/) - used to add fun icons to my my text for apperance .
 - [Google-Fonts](https://fonts.google.com/) - added 'Cabin Sketch' and 'Madimi One' fonts to help diversitise.
 
@@ -192,8 +204,10 @@ At the start of this development i had struggled alot with cache errors causing 
 - Mentor helped suggested for me to go through bootrap to find and add out how to use Grid using row and col clases which replaced my float style which are not as organised 
 
 ## Last notes
-- I want to mention here that this project has helped me change my way of thinking completely and shaped my outlook on my next project i will continue to work on this project in my spare time in hopes i can bring new skill i pick up along the way
-- And a thank you to my mentor Rory Patrick  offering important feedback during my dilemma
+
+- I want to mention here that this project has helped me change my way of thinking completely and shaped my outlook on my next project i will continue to work on this project in my spare time in hopes i can bring new skill i pick up along the way.
+
+- And a thank you to my mentor Rory Patrick  offering important feedback during my dilemma.
 
 
     
