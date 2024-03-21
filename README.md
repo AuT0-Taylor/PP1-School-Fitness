@@ -11,6 +11,7 @@ the project was designed with the amboitions to help teachers with lesson planni
 ![front of web page](/documents/evidence/front-page.png)
 
 ## Table of Contents
+
 * [User Experience](#user-experience)
 * [Visual Designs](#visual-design)
 * [Features](#features)
@@ -18,7 +19,7 @@ the project was designed with the amboitions to help teachers with lesson planni
 * [Testing](#testing)
 * [Bug fixes](#Bug-Issues)
 * [Deployment](#deployment)
-* [Sources](#sources-used)
+* [Credit](#credit)
 
 ## User Experience
 
@@ -64,7 +65,7 @@ the project was designed with the amboitions to help teachers with lesson planni
 
 - ### Typography
    
-   - My chosen fonts from google had come from research as 'Cabin Sketch' had a studious tone and was most favored by teachers where as 'Madimi One' gave the page a bit more diversity than just give the text a bold decoration
+   - My chosen fonts from google had come from research as 'Cabin Sketch' had a studious tone and was most favored by teachers where as 'Madimi One' gave the page a bit more diversity than just give the text a bold decoration.
 
    ![google fonts](/documents/evidence/google-fonts.png)
 
@@ -72,34 +73,41 @@ the project was designed with the amboitions to help teachers with lesson planni
 ## Features
 
  - ### Feature - Nav bar
+
     - Nav bar inline with logo at the top of all 3 pages to give a consistent and common theme to the website for the user to easily navigated through the pages and a href linked to the logo to bring the user back to the home page.
     
     ![nav bar](/documents/evidence/nav-bar.png)
 
  - ### Feature - Home page
+
     - home page is to greet all users with the websites designed slogan "With Healthy Bodies Come Healthy Minds"
     with the an image background used to set the theme for the website 
 
     ![home page](/documents/evidence/home-page.png)
 
  - ### Feature - Footer
+
     - towards the bottom of each page has a footer that offers the user with details they may need to know to continue working with this brand via socials, as well a phone line with opening times when the user can get in touch 
     and lastly the fictious address which i had found random generator.
 
     ![footer](/documents/evidence/socials.png)
 
  - ### Feature - About us cards
+
     - the about us section was design with 4 simple and easy to read containing what schools we cover, who can take part, what our beliefs as a brand are and and what our goals are for the users experience outcome.
 
     ![about](/documents/evidence/about-us.png)
 
 
 ## Technologies
+
 - ### coding languages
+
 - [HTML5](https://en.wikipedia.org/wiki/HTML)
 - [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ### Tools and programs used in the process
+
 - [Bootstrap5](https://getbootstrap.com/) - used as fast, clean and effective way to make site this also helps with the consistency.
 - [Balsamiq](https://balsamiq.com/) - to create neat and simple wireframes to help visualise web design ideas.
 - [github](https://github.com/) - to view my push and commits for my projects code to my repository.
@@ -110,13 +118,14 @@ the project was designed with the amboitions to help teachers with lesson planni
 ## Testing 
 
 ### different Browsers
+
 - FireFox version 124.0 (64-bit)
 - Chrome Version 123.0.6312.59 (Official Build) (64-bit)
 - Microsoft Edge Version 122.0.2365.80 (Official build) (64-bit)
 
 All browers listed have been tested.
 
-### html validations
+### Html validations
 
 [NU html checker](https://validator.w3.org/nu/) - used to validate/check html code
  - Home page html validation succesful!
@@ -127,6 +136,7 @@ All browers listed have been tested.
 ![Contact](/documents/validations/contact-html-validated.png)
 
 ### CSS validations
+
 [NU CSS checker](https://jigsaw.w3.org/css-validator/) - used to validate/check html code
  - Custom CSS validation succesful! 
  ![CSS Check](/documents/validations/ccs-validated.png)
@@ -140,7 +150,7 @@ All browers listed have been tested.
 
 ## Bug fixes 
 
-### developer story
+### Developer story
 
 At the start of this development i had struggled alot with cache errors causing my website not to refresh and in that moment i had copied and pasted work to a new repository : 
 [old Repository](https://github.com/AuT0-Taylor/School-Fitness-PP1)
@@ -153,16 +163,33 @@ At the start of this development i had struggled alot with cache errors causing 
 ## Deployment
 
 ### If you would like to clone my repository
+
 - find my repository here: https://github.com/AuT0-Taylor/PP1-School-Fitness on GitHub!
 - Here you can click the green highlighted button "Code"
 - From here select codespaces and "create a codespace on main"
 
-### how i deployed this site 
+### How i deployed this site 
 
--As you open and find my GitHub repository, find the settings tab
--Once in the Repository settings on the left hand side will be 'Pages'
+- As you open and find my GitHub repository, find the settings tab
+- Once in the Repository settings on the left hand side will be 'Pages'
 - now selected the drop-down menu from source and select "Deploy From Branch"
 - now thay its live from the main branch all commits pushed will be shown live
+
+## Credit 
+
+### Cover images
+
+- all images used are from a website that also served as information - photos by https://keepingkidsinmotion.com/
+
+### Code Content
+
+- A very easy to follow fade-in transition : https://blog.hubspot.com/website/css-fade-in#image-transition
+
+- index page cards, and how to apply row and cols from bootstrap library :
+[Bootsrap](https://getbootstrap.com/)
+
+-
+
 
 
     
