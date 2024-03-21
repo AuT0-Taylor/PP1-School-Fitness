@@ -201,7 +201,7 @@ At the start of this development i had struggled alot with cache errors causing 
 [Bootsrap](https://getbootstrap.com/) -
  Ajust then with custom css 
 
-- Mentor helped suggested for me to go through bootrap to find and add out how to use Grid using row and col clases which replaced my float style which are not as organised 
+- Mentor helped suggested for me to go through bootrap to revisit to work out how to use Grid using row and col clases which replaced my float style which are not as organised 
 
 ## Last notes
 
